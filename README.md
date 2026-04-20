@@ -1,6 +1,6 @@
 # TaskMaster PHP PWA
 
-Gerenciador de tarefas que fiz pra estudar PWA com PHP puro. Sem framework, sem banco de dados, sem dependência nenhuma — só PHP, HTML, CSS e um pouco de JS vanilla.
+Gerenciador de tarefas que fiz pra estudar PWA com PHP puro. Sem framework, sem banco de dados, sem dependência nenhuma, só PHP, HTML, CSS e um pouco de JS vanilla.
 
 Os dados ficam num arquivo `tasks.json` local. Funciona offline depois da primeira visita graças ao Service Worker.
 
