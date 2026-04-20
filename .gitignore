@@ -1,0 +1,17 @@
+# TaskMaster PHP PWA — .gitignore
+
+# Dados locais (não versionar tarefas pessoais)
+tasks.json
+
+# Uploads temporários
+*.tmp
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
